@@ -1,0 +1,22 @@
+.col-md-3{
+    border-bottom-left-radius: 30px !important;
+    border-bottom-right-radius: 30px !important;
+}
+
+p{
+    font-size: 1.3rem;
+}
+
+h1{
+    font-size: 2rem !important;
+    font-weight: 800 !important;
+    font-family: century !important;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+a{
+    font-size: 1.15rem !important;
+    font-family: century !important;
+    font-weight: 500 !important;
+}
